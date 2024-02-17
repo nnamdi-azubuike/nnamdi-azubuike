@@ -54,7 +54,7 @@ If you're interested in learning more about me or discussing project ideas, plea
 
 ### 📫 Connect with me 
 
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/iamclement1)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/nnamdi-azubuike)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/clementnnamdi/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+2347034947199)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:iamnnamdiclement@gmail.com)
@@ -76,9 +76,9 @@ If you're interested in learning more about me or discussing project ideas, plea
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>](https://github.com/iamclement1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='18'>](https://www.instagram.com/iamclement_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='18'>](https://twitter.com/_iamclement_) -->
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamclement1&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nnamdi-azubuike&show_icons=true)  
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamclement1&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnamdi-azubuike&layout=compact)
 
-![Profile views](https://gpvc.arturio.dev/iamclement1)  
+![Profile views](https://gpvc.arturio.dev/nnamdi-azubuike)  
